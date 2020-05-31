@@ -13,7 +13,7 @@
 <style scoped>
     #top{
         position: relative;
-        height: 100px;
+        height: 10vh;
         width: 100%;
         background-color: #42b983;
     }

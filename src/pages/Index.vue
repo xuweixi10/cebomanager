@@ -59,26 +59,26 @@
     .left{
         position: relative;
         float: left;
-        top: 40px;
-        left: 100px;
-        width: 180px;
-        height: 800px;
-        border: 1px solid #2c3e50;
+        top: 4vh;
+        left: 5vw;
+        width: 10vw;
+        height: 80vh;
+        border: 0.05vw solid #2c3e50;
     }
     .right{
         position: relative;
         float: left;
-        top: 40px;
-        left: 200px;
-        width: 1300px;
-        height: 800px;
-        border: 1px solid #2c3e50 ;
+        top: 4vh;
+        left: 10vw;
+        width: 74vw;
+        height: 80vh;
+        border: 0.05vw solid #2c3e50 ;
     }
     .feature{
         position: relative;
-        height: 80px;
-        line-height: 80px;
-        font-size: 18px;
+        height: 10vh;
+        line-height: 10vh;
+        font-size: 1vw;
         font-weight: 400;
         cursor: pointer;
         /*transition*/
